@@ -1,14 +1,14 @@
-// import React from 'react';
-// import Title from './Title';
+import React from 'react';
+import Title from './Title';
 
-// class Missions extends React.Component {
-//   render() {
-//     return (
-//       <div data-testid="missions">
-//         <Title headline="Missões" />
-//       </div>
-//     );
-//   }
-// }
+class Missions extends React.Component {
+  render() {
+    return (
+      <div data-testid="missions">
+        <Title headline="Missões" />
+      </div>
+    );
+  }
+}
 
-// export default Missions;
+export default Missions;
