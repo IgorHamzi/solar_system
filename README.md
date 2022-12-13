@@ -33,4 +33,4 @@ Neste projeto foi desenvolvido um modelo do sistema solar! Ao utilizar essa apli
 
 
 
-### Projeto realizado no módulo de fundamentos do Curso de Desenvolvimento WEB da TRYBE.
+### Projeto realizado no módulo de Front-end do Curso de Desenvolvimento WEB da TRYBE.
